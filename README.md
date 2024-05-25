@@ -35,8 +35,6 @@ The next steps in the model development will be to finetune the models to improv
 
 See the full analysis in the [Jupyter Notebook](./index.ipynb) or review this [presentation](./presentation.pdf).
 
-For additional info, contact the author at [afanta@alumni.cmu.edu](mailto:afanta@alumni.cmu.edu)
-
 ## Repository Structure
 
 ```
